@@ -22,7 +22,7 @@ def delete_file(name):
 
 def display_help():
     """Displays the help message for the CLI."""
-    print("Usage: python file_cli.py [command] [name]")
+    print("Usage: python main.py [command] [name]")
     print("\nCommands:")
     print("  create <dir_name>  Create a new directory.")
     print("  delete <file_name> Delete a file.")
