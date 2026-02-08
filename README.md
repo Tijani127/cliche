@@ -10,4 +10,10 @@ IDK. I was daydreaming at school that I would make a CLI that makes other CLIs a
 I know.
 
 ## How does it work?
-When you run cliche init, it creates a folder called cliche_project and in it has a main.py file with sys and os imported and a basic cli.
+When you run cliche init, it creates a folder with the name you give it and in it has a main.py file with sys and os imported and a basic cli.
+
+## How do I use it?
+To use it, you first need to install it. 
+
+## How do I install it?
+To install it, you first need to have python installed. Then, you need to install it from the github repo. 
